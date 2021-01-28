@@ -10,7 +10,7 @@ import UIKit
 import GoogleMaps
 import GooglePlaces
 
-let googleApiKey = "AIzaSyCdX_d4V_JwV4RNOtdlCMmythvFYQutYSU"
+let googleApiKey = "Enter your key"
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
