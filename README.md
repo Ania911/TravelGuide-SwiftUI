@@ -1,6 +1,6 @@
 # TravelGuide-SwiftUI <img src="image/logo.png" width="100">
 
-This is a short travel guide application for Ukraine(Lviv city).  Welcomes to Ukraine! Here you can find a lot of beautiful places with huge history and with friendly people.
+This is a short travel guide application for Ukraine(Lviv city).  Welcome to Ukraine! Here you can find a lot of beautiful places with huge history and with friendly people.
 
 For the development I used: 
 
