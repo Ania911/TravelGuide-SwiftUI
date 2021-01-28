@@ -10,4 +10,4 @@ For the development I used:
    
    <img src="image/2.png" width="100">,   <img src="image/3.png" width="100">, <img src="image/4.png" width="100">, <img src="image/5.png" width="100">
    
-For the study, you can learn how to use google maps with cocopods framework and of course SwiftUI which is awsome.
+For the study, you can learn how to use google maps with cocopods framework and of course SwiftUI which is awesome.
