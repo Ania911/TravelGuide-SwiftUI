@@ -27,10 +27,7 @@ class PlaceMarker: GMSMarker {
     
     
     let places = [
-        Place (name: "Lviv National Academic Opera and Ballet Theatre named after Solomiya Krushelnytska",latitude: 49.84424176947402, longitude: 24.02690169868762, snippet: "Population: 721,301", icon: "opera"),
-    
-        Place(name: "Lviv National Academic Opera and Ballet Theatre named after Solomiya Krushelnytska",latitude: 49.84424176947402, longitude: 24.02690169868762, snippet: "Population: 721,301", icon: "opera")
-
+        Place (name: "",latitude:, longitude: , snippet: "", icon: ""), 
     ]
  
     
