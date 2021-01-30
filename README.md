@@ -1,8 +1,6 @@
 # Travel Guide <img src="image/logo.png" width="100">
-#### Video Demo:  <https://www.youtube.com/watch?v=kgcLC33L3pc>
-## Description:
+
 #### This is a short Travel Guide application for Ukraine(Lviv city).  Welcome to Ukraine!
-#### The purpose of this project is to invite people to Ukraine, to tell about it. Ukraine is a country in the center of Europe with its melodious language, history, traditions, and the best people.
 
  #### <img src="image/2.png" width="100">  <img src="image/3.png" width="100"> <img src="image/4.png" width="100"> <img src="image/5.png" width="100">
 
