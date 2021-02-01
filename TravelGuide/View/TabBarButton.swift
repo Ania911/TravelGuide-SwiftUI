@@ -16,20 +16,16 @@ struct TabBarButton: View {
     
     var body: some View {
         GeometryReader { geometry in
-            
             VStack (alignment:.center) {
-                
                 TabView (selection: self.$selectedItem) {
                     
-                    
                     // The first  tab bar icon
-                    GoogleMaps().tabItem {
+                    MapView().tabItem {
                         Image(systemName: "map.fill")
                         Text("Map")
-                        
+                    
                     }.tag(0)
-                    
-                    
+               
                     // The 2 tab bar icon
                     GuideView(location: places).tabItem {
                         
@@ -40,7 +36,7 @@ struct TabBarButton: View {
                     // The 3 tab bar icon
                     Text("The content will be available soon")
                         .animation(.easeInOut)
-                    .tabItem {
+                   .tabItem {
                         
                             Image(systemName: "star")
                             Text("Bookmark")
@@ -48,14 +44,11 @@ struct TabBarButton: View {
                 }
             }
                 
-//            .padding(3)
             .padding(.bottom, geometry.safeAreaInsets.bottom)
             .padding(.top, geometry.safeAreaInsets.top)
-               
-//
-//            .accentColor(.gray)
-            
+   
         }
+//            For save area UI
         .edgesIgnoringSafeArea(.all)
     }
     
