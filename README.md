@@ -21,20 +21,3 @@
 ### 3. Installing the SDK
 #### The Maps SDK for iOS is available as a CocoaPods pod. CocoaPods is an open source dependency manager for Swift and Objective-C Cocoa projects.
 #### CocoaPods for google maps getting started guide - https://developers.google.com/maps/documentation/ios-sdk/start?authuser=1
-#### About the files:
-#### My project include two main folders with files: Model, View.
-## Models: 
-#### 1. LocationManager.swift - The model for tracking current user’s location (latitude and longitude). 
-#### 2. Plase.swift - The model what include all information about places for the traveling.
-#### 3. ShowModal.swift - The model for the Sheet View UI. How the sweet look like then you open the detailed places info(toogle).
-
-## View:
-#### GoogleMaps.swift - The view for google maps style.
-#### GuideView.swift - The view for the information about places - location, detailed info, ets.
-#### MapView.swift - The view for google maps in the tab bar.
-#### TabBarButton.swift - The view for all  tab bar buttons. Each tab has they own view as well.
-#### Style.json - In this file I created my own view for google maps.
-#### PodFile - The Podfile is a specification that describes the dependencies of the targets of one or more Xcode projects. 
-#### Assets.xcassets - The all photo files for the project. 
-#### For the design I used icon, logo -  the map of my country. 
-
